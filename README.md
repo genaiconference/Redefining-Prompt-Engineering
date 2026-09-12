@@ -2,11 +2,11 @@
 
 ## Prompt Engineering Masterclass Edition
 
-This rebuilt package treats prompt engineering as behavioural systems design. It moves through six experiments: Prompt Diet, Answer Flip, Time-Travel Trap, prompt-to-policy compilation, context quarantine with adversarial self-play, and reflective prompt evolution.
+This masterclass treats prompt engineering as behavioural systems design. It moves through six experiments: Prompt Diet, Answer Flip, Time-Travel Trap, prompt-to-policy compilation, context quarantine with adversarial self-play, and reflective prompt evolution.
 
 ## Package contents
 
-- `Redefining_Prompt_Engineering_Masterclass_2026_Premium_Arial.pptx`: 49 visual slides in Arial with active-voice, read-aloud speaker notes.
+- `Redefining_Prompt_Engineering_Masterclass_2026_ARUNPRAKASHASOKAN.pdf`: presentation.
 - `Ultimate_Prompt_Engineering_Reference_Guide_2026.docx` and `.pdf`: 2026 stack, Prompt CONTRACT, sixteen frontier techniques and production guidance.
 - `Productivity_and_Production_Prompt_Library_2026.docx` and `.pdf`: 48 reusable templates.
 - `Microsoft_365_Personal_AI_OS_60_Prompts_2026.docx` and `.pdf`: 60 individually authored Copilot and Cowork prompts across twelve categories.
